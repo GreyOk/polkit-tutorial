@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   width="13.546666mm"
+   height="13.546666mm"
+   viewBox="0 0 48 48"
+   id="svg2"
+   version="1.1">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient7068">
+      <stop
+         style="stop-color:#000000;stop-opacity:0.83783782"
+         offset="0"
+         id="stop7070" />
+      <stop
+         style="stop-color:#0088aa;stop-opacity:1"
+         offset="1"
+         id="stop7072" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#linearGradient7068"
+       id="linearGradient7074"
+       x1="326.78433"
+       y1="343.48767"
+       x2="457.09402"
+       y2="343.48767"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.18705441,0,0,0.18728774,120.20457,270.54852)" />
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     transform="translate(-169.51852,-310.87955)">
+    <path
+       id="rect6236"
+       d="m 169.51852,310.87955 48,0 0,48 -48,0 z"
+       style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1.14367998px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       id="rect6238"
+       d="m 181.33102,319.12955 24.375,0 0,31.5 -24.375,0 z"
+       style="fill:url(#linearGradient7074);fill-opacity:1;stroke:none" />
+    <g
+       id="flowRoot7048"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:'Cinzel Decorative';-inkscape-font-specification:'Cinzel Decorative';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.1875,0,0,0.1875,159.20975,264.58772)">
+      <path
+         id="path6252"
+         style="text-align:center;text-anchor:middle"
+         d="m 152.75449,337.55401 0.52,-0.08 c 1.68,-0.16 2.52,0.84 2.56,2.16 l 0,21.68 c -0.04,1.44 -1.24,2.48 -2.56,2.48 l -0.52,0 0,0.4 8.72,0 0,-0.4 -0.48,0 c -1.32,0 -2.52,-1.04 -2.56,-2.48 l 0,-23.72 c 1.4,-0.24 2.72,-0.52 3.8,-0.68 4.72,-0.52 7.92,1.72 8.12,6.88 0.12,3.8 -1.44,6.88 -4.48,7.44 -2,0.36 -4.68,-0.32 -5.32,-2.76 l -0.36,0.12 c 0.4,3.2 3.24,4.28 5.96,4.12 4.56,-0.28 7.32,-3.96 7.2,-8.92 -0.2,-5.96 -4.56,-8.92 -10.96,-8.12 -1.96,0.24 -6.08,1.08 -9.68,1.48 l 0.04,0.4 z" />
+      <path
+         id="path6254"
+         style="text-align:center;text-anchor:middle"
+         d="m 182.92574,339.11401 c 0.04,-1.4 1.2,-2.52 2.56,-2.52 l 0.52,0 0,-0.4 -8.72,0 0,0.4 0.48,0 c 1.4,0 2.52,1.12 2.56,2.52 l 0,22.2 c 0,1.36 -1.16,2.52 -2.56,2.52 l -0.48,0 -0.04,0.4 8.76,0 0,-0.4 -0.52,0 c -1.4,0 -2.52,-1.16 -2.56,-2.52 l 0,-22.2 z m 4.04,10.12 9.32,-10.8 c 1.04,-1.16 2.6,-1.84 4.32,-1.84 l 0.16,0 0,-0.4 -8.44,0 0,0.36 0.36,0 c 1.12,0 1.64,1 0.96,1.92 l -9.4,11.8 13.24,14.12 c 7.12,7.56 13.08,6.8 15.76,6.2 l 0,-0.4 c -4.92,0 -9.48,-3.04 -12.68,-6.44 l -13.6,-14.52 z" />
+      <path
+         id="path6256"
+         style="text-align:center;text-anchor:middle"
+         d="m 166.3948,386.15401 c -5.32,0 -8.08,4.36 -5.08,8 l 0.32,-0.2 c -1.8,-3.36 0.48,-6.6 4.76,-6.6 l 8.32,0 0,24 c -0.04,1.36 -1.16,2.48 -2.56,2.48 l -0.48,0 -0.04,0.4 8.76,0 0,-0.4 -0.48,0 c -1.4,0 -2.52,-1.12 -2.56,-2.52 l 0,-23.96 7.56,0 c 1.28,0.08 2.28,1.12 2.28,2.4 l 0,0.72 0.4,0 0,-5.04 c -0.76,0.32 -3.08,0.72 -4.8,0.72 l -16.4,0 z" />
+    </g>
+    <g
+       id="flowRoot7058"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  </g>
+</svg>

@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Polkit Tutorial
+GenericName=Polkit Tutorial App
+Comment=An application that uses pkexec to run as root
+Categories=Utility;
+Exec=polkit-tutorial-pkexec
+Icon=polkit-tutorial
+Terminal=false
+Type=Application
+X-GNOME-Gettext-Domain=polkit-tutorial
+Keywords=polkit;
